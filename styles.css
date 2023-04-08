@@ -13,6 +13,7 @@ body{
     align-items: center;
 }
 .header-logo {
+    font-family: 'Italiana', serif;
     margin-right: auto;
     font-size: 2rem; 
     letter-spacing: 0.1rem;
@@ -26,11 +27,14 @@ body{
     padding-left: 10px;
 }
 .navbar a {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
     text-decoration: none;
     color: white;
 }
 .header-items {
-    font-family: Courier New;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
     font-size: 1rem;
     font-weight: bold;
 }
@@ -40,7 +44,8 @@ body{
 }
 .btn {
 border-radius: 8px;
-font-family: Courier New;
+font-family: 'Roboto', sans-serif;
+letter-spacing: 1px;
 color: #ffffff;
 font-size: 1rem;
 font-weight: bold;
@@ -55,7 +60,7 @@ border: #ffffff solid 2px;
 background: #fff;
 text-decoration: none;
 color: #146C94;
-box-shadow: 0px 2px 5px 0px #97DEFF;
+transition: 0.5s;
 }
 
 /*HERO PAGE*/
@@ -93,11 +98,14 @@ box-shadow: 0px 2px 5px 0px #97DEFF;
     opacity: 1;
 }
 .heading-hero {
+    font-family: 'Italiana', serif;
     margin-bottom: 1px;
     color: white;
 }
 .hero-paragraph {
     color: rgb(165, 154, 154);
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
 }
 .shop-btn {
     width: 100px;
@@ -124,6 +132,7 @@ box-shadow: 0px 2px 5px 0px #97DEFF;
 
 /*FULL COLLECTION PAGE*/
 .collection-heading {
+    font-family: 'Italiana', serif;
     text-align: center;
     color: #146C94;
     margin-top: 50px;
@@ -140,7 +149,6 @@ box-shadow: 0px 2px 5px 0px #97DEFF;
     flex: 1;
     display: flex;
     flex-direction: column;
-    border: 2px solid #97DEFF;
 
     height: 250px;
     width: 250px;
@@ -149,18 +157,19 @@ box-shadow: 0px 2px 5px 0px #97DEFF;
     transform: scale(1.05);
     cursor: pointer;
     transition: 0.9s;
-    box-shadow: 0px 10px 10px 0px grey;
-    border: 2px solid #146C94;
 }
 .collection-images {
 height: 150px;
 width: 100%;
+border: 3px solid #146C94;
+border-radius: 8px;
 }
 .p-collection {
     flex: 1;
     text-align: center;
     padding: 0 10px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
     font-size: 0.8rem;
     font-weight: bold;
 }
@@ -177,10 +186,15 @@ width: 100%;
     margin: 50px 0;
 }
 .quote-text {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+    color: #212121;
     font-size: 1.8rem;
     margin-bottom: 0;
 }
 .angelina {
+    font-family: 'Italiana', serif;
+    color: #212121;
     align-self: flex-end;
     margin-top: 0;
     font-size: 1.8rem;
@@ -203,14 +217,18 @@ width: 100%;
     border-radius: 10px;
 }
 .newsletter-heading {
+    font-family: 'Italiana', serif;
     font-size: 2rem;
     font-weight: 900;
     color: white;
     margin-bottom: 0;
+    letter-spacing: 3px;
 }
 .newsletter-paragraph {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
     font-size: 0.8rem;
-    color: #146C94;
+    color: #97DEFF;
 }
 /*WOW BUTTON*/
 .spot {
@@ -240,6 +258,7 @@ width: 100%;
 }
  
 #text {
+    font-family: 'Italiana', serif;
     margin-top: -35px;
     text-align: center;
 }
@@ -258,14 +277,16 @@ width: 100%;
 
 /*FOOTER*/
 footer {
-    background-color: #146C94;
+    background-color: #212121;
     padding: 7px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
 
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 1.1rem;
-    color: white;
+    color: #97DEFF;
 }
 
 
