@@ -1,7 +1,7 @@
 # first-landing-page
 
-<!--adidas sneaker image-->
-Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CHUTTERSNAP</a> on <a href="https://unsplash.com/s/photos/blue-clothes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+<!--hero page video-->
+Video by cottonbro studio: https://www.pexels.com/video/young-models-posing-for-photoshoot-6121230/
   
 <!--suit image-->
 Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4914044">Tumisu</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4914044">Pixabay</a>
